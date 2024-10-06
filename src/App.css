@@ -11,3 +11,8 @@
 .CodeMirror-scroll {
   background: #1d1e22;
 }
+.CodeMirror-lint-mark-error {
+    text-decoration: underline;
+    text-decoration-color: red;
+    text-decoration-style: wavy;
+}

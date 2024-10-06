@@ -1,8 +1,6 @@
 import { useContext } from "react";
 import Editor from "./Editor";
-
 import { Box, styled } from "@mui/material";
-
 import { DataContext } from "../context/DataProvider";
 
 const Container = styled(Box)`

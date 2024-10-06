@@ -1,26 +1,25 @@
-.button{
+.button {
   background-color: black;
- 
 }
-.footer{
+.footer {
   text-align: center;
   font-weight: 100;
   background-color: gainsboro;
 }
-.button-2{
-  padding: 10px 40px;
+.button-2 {
+  padding: 10px 30px;
   font-size: 1rem;
   font-weight: 700;
   margin-left: 20px;
-  
+
   background-color: #384054;
   color: white;
   border: none;
-border-radius: 5px;  
+  border-radius: 5px;
 }
-.button-2:hover{
+.button-2:hover {
   background-color: #4e6682;
 }
-.icon{
+.icon {
   font-size: 20px;
 }
